@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root version="5" type="3" timestamp="1742482802">
+<root version="5" type="3" timestamp="1743036351">
 	<apps>
 		<item path="CryptSvc" timestamp="1710091865" is_undeletable="true"/>
 		<item path="Dhcp" timestamp="1710091865" is_undeletable="true"/>
@@ -37,6 +37,6 @@
 		<item name="RDP [inbound]" is_enabled="true"/>
 		<item name="WS-Discovery [events]" is_enabled="false"/>
 		<item name="WS-Discovery" is_enabled="false"/>
-		<item name="HTTP" is_enabled="true"/>
+		<item name="DNS" is_enabled="false"/>
 	</rules_config>
 </root>
